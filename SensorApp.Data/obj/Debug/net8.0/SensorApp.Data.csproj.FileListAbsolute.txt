@@ -1,0 +1,12 @@
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/bin/Debug/net8.0/SensorApp.Data.deps.json
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/bin/Debug/net8.0/SensorApp.Data.dll
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/bin/Debug/net8.0/SensorApp.Data.pdb
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.csproj.AssemblyReference.cache
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.AssemblyInfoInputs.cache
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.AssemblyInfo.cs
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.csproj.CoreCompileInputs.cache
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.dll
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/refint/SensorApp.Data.dll
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/SensorApp.Data.pdb
+/Users/yevhenii.siianko/Projects/SensorApp/SensorApp.Data/obj/Debug/net8.0/ref/SensorApp.Data.dll
